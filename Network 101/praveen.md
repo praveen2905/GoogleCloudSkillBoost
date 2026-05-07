@@ -36,10 +36,6 @@ sudo chmod +x praveen.sh
   <a href="https://www.youtube.com/@PraveenTech1?sub_confirmation=1">
     <img src="https://img.shields.io/badge/Subscribe-Praveen%20Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/praveen2905/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Praveen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
 
 </div>
