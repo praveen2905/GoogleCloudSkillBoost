@@ -36,10 +36,10 @@ sudo chmod +x TechCode.sh
 ## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
 
 <div align="center" style="padding: 5px;">
-  <h3>📱 Join the Tech & Code Community</h3>
+  <h3>📱 Join the Praveen Tech Community </h3>
   
   <a href="https://www.youtube.com/@PraveenTech1">
-    <img src="https://img.shields.io/badge/Subscribe-Tech%20&%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/Subscribe-Praveen%20&%20Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
 </div>
 
@@ -50,6 +50,6 @@ sudo chmod +x TechCode.sh
     <em>This guide is provided for educational purposes. Always follow Qwiklabs terms of service and YouTube's community guidelines.</em>
   </p>
   <p style="font-size: 12px; color: #586069;">
-    <em>Last updated: May 2025</em>
+    <em>Last updated: May 2026</em>
   </p>
 </div>
