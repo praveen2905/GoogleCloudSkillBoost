@@ -38,15 +38,9 @@ sudo chmod +x TechCode.sh
 <div align="center" style="padding: 5px;">
   <h3>📱 Join the Tech & Code Community</h3>
   
-  <a href="https://www.youtube.com/@TechCode9?sub_confirmation=1">
+  <a href="https://www.youtube.com/@PraveenTech1">
     <img src="https://img.shields.io/badge/Subscribe-Tech%20&%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/prateekrajput08/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Prateek%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-
 </div>
 
 ---
