@@ -24,9 +24,9 @@ export ZONE_1=
 export ZONE_2=
 ```
 ```bash
-curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/Set%20Up%20a%20Google%20Cloud%20Network%3A%20Challenge%20Lab/TechCode.sh
-sudo chmod +x TechCode.sh 
-./TechCode.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Set%20Up%20a%20Google%20Cloud%20Network%20Challenge%20Lab/praveen.sh
+sudo chmod +x praveen.sh 
+./praveen.sh
 ```
 
 </div>
