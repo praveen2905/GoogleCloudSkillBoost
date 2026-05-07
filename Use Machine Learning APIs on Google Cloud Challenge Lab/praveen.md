@@ -4,11 +4,11 @@ Click **Activate Cloud Shell** icon at the top of the `Google Cloud console`.
 Now copy the below command and run it, and wait for 2-3 minutes.
 
 ```bash
-curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/Use%20Machine%20Learning%20APIs%20on%20Google%20Cloud%3A%20Challenge%20Lab/TechCode.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Use%20Machine%20Learning%20APIs%20on%20Google%20Cloud%20Challenge%20Lab/praveen.sh
 
-sudo chmod +x TechCode.sh
+sudo chmod +x praveen.sh
 
-./TechCode.sh
+./praveen.sh
 ```
 
 ```bash
