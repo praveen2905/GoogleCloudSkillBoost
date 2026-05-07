@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 # Define color variables
 
 BLACK=`tput setaf 0`
@@ -35,11 +35,11 @@ RANDOM_BG_COLOR=${BG_COLORS[$RANDOM % ${#BG_COLORS[@]}]}
 # Welcome message
 clear
 echo "${BG_BLUE}${BOLD}${WHITE}╔════════════════════════════════════════════════════════╗${RESET}"
-echo "${BG_BLUE}${BOLD}${WHITE}   Welcome to Dr. Abhishek's Cloud Lab Setup Script        ${RESET}"
+echo "${BG_BLUE}${BOLD}${WHITE}   Welcome to Praveen Tech Cloud Lab Setup Script        ${RESET}"
 echo "${BG_BLUE}${BOLD}${WHITE}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
 echo "${GREEN}${BOLD}This script will help you set up your cloud lab environment${RESET}"
-echo "${CYAN}For more tutorials, visit: https://www.youtube.com/@drabhishek.5460${RESET}"
+echo "${CYAN}For more tutorials, visit: https://youtube.com/@praveentech1?si=Mup3nFpkAExrK-fr${RESET}"
 echo
 
 echo "${RANDOM_BG_COLOR}${RANDOM_TEXT_COLOR}${BOLD}Starting Execution${RESET}"
@@ -172,9 +172,9 @@ echo "${BG_GREEN}${BOLD}${BLACK}╔═══════════════
 echo "${BG_GREEN}${BOLD}${BLACK}   Congratulations! Lab Setup Completed Successfully!      ${RESET}"
 echo "${BG_GREEN}${BOLD}${BLACK}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
-echo "${MAGENTA}${BOLD}Thank you for using Dr. Abhishek's Cloud Lab Setup Script${RESET}"
+echo "${MAGENTA}${BOLD}Thank you for using Praveen Tech Cloud Lab Setup Script${RESET}"
 echo "${CYAN}${BOLD}For more tutorials and cloud computing content, subscribe to:${RESET}"
-echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460${RESET}"
+echo "${BLUE}${UNDERLINE}https://youtube.com/@praveentech1?si=Mup3nFpkAExrK-fr${RESET}"
 echo
 
 # Cleanup function
