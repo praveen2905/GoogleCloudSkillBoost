@@ -1,4 +1,4 @@
-# 🌐 Set Up a Google Cloud Network: Challenge Lab || GSP314 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.cloudskillsboost.google/course_templates/641/labs/591585)
+# 🌐 Networking 101 || GSP007 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.cloudskillsboost.google/course_templates/641/labs/519959)
 
 ## ⚠️ Disclaimer ⚠️
 
@@ -14,17 +14,12 @@
 
 ## ☁️ Run in Cloud Shell:
 ```bash
-export VPC_NAME=
-export SUBNET_A=
-export SUBNET_B=
-export FWL_1=
-export FWL_2=
-export FWL_3=
-export ZONE_1=
-export ZONE_2=
+export REGION_1=
+export REGION_2=
+export REGION_3=
 ```
 ```bash
-curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Set%20Up%20a%20Google%20Cloud%20Network%20Challenge%20Lab/praveen.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Network%20101/praveen.sh
 sudo chmod +x praveen.sh 
 ./praveen.sh
 ```
@@ -45,6 +40,8 @@ sudo chmod +x praveen.sh
   <a href="https://www.linkedin.com/in/praveen2905/">
     <img src="https://img.shields.io/badge/LINKEDIN-Praveen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+
 </div>
 
 ---
@@ -54,6 +51,6 @@ sudo chmod +x praveen.sh
     <em>This guide is provided for educational purposes. Always follow Qwiklabs terms of service and YouTube's community guidelines.</em>
   </p>
   <p style="font-size: 12px; color: #586069;">
-    <em>Last updated: May 2026</em>
+    <em>Last updated: May 2025</em>
   </p>
 </div>
