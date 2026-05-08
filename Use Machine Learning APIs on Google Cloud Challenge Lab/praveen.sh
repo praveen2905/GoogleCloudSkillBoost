@@ -43,7 +43,7 @@ RESET='\033[0m'
 # Header
 echo -e "${BOLD_CYAN}╔══════════════════════════════════════════════════════╗${RESET}"
 echo -e "${BOLD_CYAN}║                                                      ║${RESET}"
-echo -e "${BOLD_CYAN}║   ${BOLD_YELLOW}Welcome to dr abhishek cloud tutorial ${BOLD_CYAN}           ║${RESET}"
+echo -e "${BOLD_CYAN}║   ${BOLD_YELLOW}Welcome to PRAVEEN TECH cloud tutorial ${BOLD_CYAN}           ║${RESET}"
 echo -e "${BOLD_CYAN}║                                                      ║${RESET}"
 echo -e "${BOLD_CYAN}╚══════════════════════════════════════════════════════╝${RESET}"
 echo ""
@@ -134,7 +134,7 @@ echo -e "${BOLD_WHITE}${BG_GREEN}   ${BOLD_YELLOW}Lab Completed Successfully! ${
 echo -e "${BOLD_WHITE}${BG_GREEN}                                                    ${RESET}"
 echo -e "${BOLD_WHITE}${BG_GREEN}══════════════════════════════════════════════════════${RESET}"
 echo ""
-echo -e "${BOLD_CYAN}For more tutorials, visit: ${UNDERLINE}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
+echo -e "${BOLD_CYAN}For more tutorials, visit: ${UNDERLINE}https://www.youtube.com/@PraveenTech1s${RESET}"
 echo ""
 
 #-----------------------------------------------------end----------------------------------------------------------#
