@@ -34,7 +34,3 @@ sudo chmod +x praveen.sh
 ```
 ### Congratulations !!!!
 
-Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.  
-
-[![Telegram](https://img.shields.io/badge/Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+gBcgRTlZLyM4OGI1)
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@drabhishek.5460?sub_confirmation=1)  
