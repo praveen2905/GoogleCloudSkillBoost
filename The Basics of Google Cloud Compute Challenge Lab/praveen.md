@@ -1,6 +1,5 @@
 ## The Basics of Google Cloud Compute: Challenge Lab
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Mo65EMa8r00)
 
 
 
@@ -30,7 +29,7 @@ Use Compute Engine to host a web application using a NGINX web server.
 export ZONE=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/The%20Basics%20of%20Google%20Cloud%20Compute%3A%20Challenge%20Lab/abhishekARC120.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/The%20Basics%20of%20Google%20Cloud%20Compute%20Challenge%20Lab/praveenARC120.sh
 sudo chmod +x abhishekARC120.sh
 ./abhishekARC120.sh
 
@@ -61,25 +60,4 @@ gcloud compute ssh my-instance --zone=$ZONE --quiet --command="sudo bash /tmp/pr
 <a href="https://t.me/+RujS6mqBFawzZDFl" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Join_Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram Group"/>
 </a>
-
-<a href="https://www.whatsapp.com/channel/0029VbCB6SpLo4hdpzFoD73f" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Join_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp Channel"/>
-</a>
-
-<a href="https://www.youtube.com/@drabhishek.5460?sub_confirmation=1" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Subscribe_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
-</a>
-
-<a href="https://www.instagram.com/drabhishek.5460/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
-
-<a href="https://www.facebook.com/people/Dr-Abhishek/61580947955153/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Follow_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
-</a>
-
-<a href="https://x.com/DAbhishek5460" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Follow_X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)"/>
-</a>
-
 </div>
