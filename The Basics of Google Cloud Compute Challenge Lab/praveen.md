@@ -30,8 +30,8 @@ export ZONE=
 ```
 ```
 curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/The%20Basics%20of%20Google%20Cloud%20Compute%20Challenge%20Lab/praveenARC120.sh
-sudo chmod +x abhishekARC120.sh
-./abhishekARC120.sh
+sudo chmod +x praveenARC120.sh
+./praveenARC120.sh
 
 ```
 
@@ -49,15 +49,3 @@ gcloud compute scp prepare_disk.sh my-instance:/tmp --zone=$ZONE --quiet
 gcloud compute ssh my-instance --zone=$ZONE --quiet --command="sudo bash /tmp/prepare_disk.sh"
 ```
 <div align="center">
-
-<h3 style="font-family: 'Segoe UI', sans-serif; color: linear-gradient(90deg, #4F46E5, #E114E5);">🌟 Connect with Cloud Enthusiasts 🌟</h3>
-<p style="font-family: 'Segoe UI', sans-serif;">Join the community, share knowledge, and grow together!</p>
-
-<a href="https://t.me/+gBcgRTlZLyM4OGI1" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Join_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram Channel"/>
-</a>
-
-<a href="https://t.me/+RujS6mqBFawzZDFl" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Join_Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram Group"/>
-</a>
-</div>
