@@ -34,9 +34,9 @@ sudo chmod +x praveen1.sh
 
 ### Now run the below command in cloud shell again
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/abhishek2.sh
-sudo chmod +x abhishek2.sh
-./abhishek2.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Host%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/praveen2.sh
+sudo chmod +x praveen2.sh
+./praveen2.sh
 ```
 
 ### Congratulations !!!!
