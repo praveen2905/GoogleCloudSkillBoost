@@ -25,7 +25,7 @@ clear
 
 
 echo "${BLUE}${BOLD}====================================================================${RESET}"
-echo "${BLUE}${BOLD}                  Dr. Abhishek Cloud Tutorials                     ${RESET}"
+echo "${BLUE}${BOLD}                  Praveen Tech Cloud Tutorials                     ${RESET}"
 echo "${BLUE}${BOLD}====================================================================${RESET}"
 echo
 echo "${GREEN}${BOLD}Starting Monolith to Microservices Migration Lab${RESET}"
@@ -133,7 +133,7 @@ echo "${BLUE}${BOLD}============================================================
 echo "${BLUE}${BOLD}               LAB COMPLETED SUCCESSFULLY                          ${RESET}"
 echo "${BLUE}${BOLD}====================================================================${RESET}"
 echo
-echo "${GREEN}${BOLD}Thank you for using Dr. Abhishek Cloud Tutorials!${RESET}"
+echo "${GREEN}${BOLD}Thank you for using Praveen Tech Cloud Tutorials!${RESET}"
 echo
 echo "${YELLOW}For more cloud tutorials and labs, visit:${RESET}"
 echo "${CYAN}https://www.youtube.com/@drabhishek.5460${RESET}"
