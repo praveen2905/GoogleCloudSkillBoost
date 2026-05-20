@@ -10,10 +10,9 @@ NC='\033[0m' # No Color
 
 # Welcome message
 echo -e "${YELLOW}=============================================${NC}"
-echo -e "${GREEN} Welcome to Dr. Abhishek Cloud Tutorials! ${NC}"
+echo -e "${GREEN} Welcome to PRAVEEN TECH Cloud Tutorials! ${NC}"
 echo -e "${YELLOW}=============================================${NC}"
 echo -e "${CYAN}Don't forget to subscribe to our YouTube channel:${NC}"
-echo -e "${BLUE}https://www.youtube.com/@drabhishek.5460/videos${NC}"
 echo -e "${YELLOW}=============================================${NC}"
 echo -e "\n"
 
@@ -114,7 +113,5 @@ echo -e "\n"
 # Completion message
 echo -e "${YELLOW}=============================================${NC}"
 echo -e "${GREEN} Deployment completed successfully! ${NC}"
-echo -e "${CYAN}Thanks for following Dr. Abhishek Cloud Tutorials!${NC}"
-echo -e "${BLUE}For more tutorials, visit:${NC}"
-echo -e "${BLUE}https://www.youtube.com/@drabhishek.5460/videos${NC}"
+echo -e "${CYAN}Thanks for following Praveen Tech Cloud Tutorials!${NC}"
 echo -e "${YELLOW}=============================================${NC}"
