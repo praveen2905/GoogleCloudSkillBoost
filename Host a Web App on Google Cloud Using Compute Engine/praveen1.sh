@@ -24,11 +24,11 @@ RESET=`tput sgr0`
 #----------------------------------------------------start--------------------------------------------------#
 
 echo "${CYAN}${BOLD}╔════════════════════════════════════════════════════════╗${RESET}"
-echo "${CYAN}${BOLD}       Welcome to Dr. Abhishek Cloud Tutorials!           ${RESET}"
+echo "${CYAN}${BOLD}       Welcome to Praveen Tech Cloud Tutorials!           ${RESET}"
 echo "${CYAN}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
 echo "${GREEN}${BOLD}Please like, share and subscribe to the channel for more:${RESET}"
-echo "${BLUE}${BOLD}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
+echo "${BLUE}${BOLD}https://www.youtube.com/@PraveenTech1${RESET}"
 echo
 
 echo "${YELLOW}${BOLD}Starting${RESET}" "${GREEN}${BOLD}Execution${RESET}"
