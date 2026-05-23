@@ -23,14 +23,14 @@ REVERSE_TEXT=$'\033[7m'
 clear
 
 # ============================================================
-# 🚀 DR ABHISHEK WELCOME BANNER
+# 🚀 PRAVEEN TECH WELCOME BANNER
 # ============================================================
 echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}              🚀 DR ABHISHEK - INITIATING EXECUTION 🚀            ${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}              🚀 PRAVEEN TECH - INITIATING EXECUTION 🚀            ${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
 echo
-echo "${ORANGE_TEXT}${BOLD_TEXT}📢 Subscribe to Dr Abhishek ❤️${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}📢 Subscribe to Praveen Tech ❤️${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@PraveenTech1${RESET_FORMAT}"
 echo
 
 REGION=$(gcloud config get-value dataplex/region 2>/dev/null)
@@ -218,7 +218,7 @@ echo "${ORANGE_TEXT}${BOLD_TEXT}================================================
 echo "${ORANGE_TEXT}${BOLD_TEXT}           LAB COMPLETED SUCCESSFULLY! 🎉              ${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 echo
-echo "${ORANGE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}Subscribe to Dr Abhishek for more videos ❤️${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@PraveenTech1${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}Subscribe to Praveen Tech for more videos ❤️${RESET_FORMAT}"
 echo
 echo "${GREEN_TEXT}${BOLD_TEXT}🔥 Enjoy Your 100/100 Score 🔥${RESET_FORMAT}"
