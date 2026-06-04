@@ -17,7 +17,7 @@ spinner() {
 
 # Welcome message
 echo "============================================="
-echo " Welcome to Dr. Abhishek Cloud Tutorials!    "
+echo " Welcome to Praveen Tech Cloud Tutorials!    "
 echo "============================================="
 echo " Setting up Network and HTTP Load Balancers  "
 echo " Please like the video and subscribe to the  "
@@ -223,7 +223,7 @@ echo "============================================="
 echo " Network Load Balancer IP: $IPADDRESS"
 echo " HTTP Load Balancer IP: $LB_IP"
 echo ""
-echo " Thank you for following along with Dr. Abhishek's"
+echo " Thank you for following along with PRAVEEN TECH"
 echo " Cloud Tutorial! Don't forget to like the video"
 echo " and subscribe to the channel for more content!"
 echo "============================================="
