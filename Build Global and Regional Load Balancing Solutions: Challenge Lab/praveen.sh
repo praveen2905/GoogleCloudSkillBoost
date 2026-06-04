@@ -24,7 +24,7 @@ clear
 
 # Welcome message in D
 echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}           WELCOME TO DR. ABHISHEK GUIDE${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}           WELCOME TO PRAVEEN TECH GUIDE${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}                SUBSCRIBE n LIKE THE VIDEO JI${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
 echo
@@ -183,7 +183,5 @@ echo "${ORANGE_TEXT}${BOLD_TEXT}================================================
 echo "${ORANGE_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 echo
-echo "${RED_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}Please subscribe to the channel for more videos and updates!${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}Don't forget to Like, Share and Subscribe!${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}Don't forget to LIKE | SHARE | SUBSCRIBE ${RESET_FORMAT}"
 echo
