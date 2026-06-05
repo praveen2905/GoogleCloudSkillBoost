@@ -227,7 +227,7 @@ echo
 
 # Display completion message
 echo "${BOLD}${GREEN}Lab execution completed successfully!${RESET}"
-echo "${BOLD}${CYAN}Thank you for using Dr. Abhishek Cloud Tutorials${RESET}"
+echo "${BOLD}${CYAN}Thank you for using PRAVEEN TECH Cloud Tutorials${RESET}"
 
 remove_files() {
     # Loop through all files in the current directory
