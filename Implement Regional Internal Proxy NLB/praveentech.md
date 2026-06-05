@@ -15,10 +15,10 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-wget -O SakshamXTech.sh "https://raw.githubusercontent.com/Saksham-Dev-001/Arcade-Google-Cloud-Labs/refs/heads/main/Implement%20Regional%20Internal%20Proxy%20NLB/SakshamXTech.sh"
-sed -i 's/\r$//' SakshamXTech.sh
-chmod +x SakshamXTech.sh
-bash SakshamXTech.sh
+wget -O Praveen.sh "https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Implement%20Regional%20Internal%20Proxy%20NLB/Praveen.sh"
+sed -i 's/\r$//' Praveen.sh
+chmod +x Praveen.sh
+bash Praveen.sh
 ```
 
 </div>
@@ -26,34 +26,3 @@ bash SakshamXTech.sh
 ---
 
 ## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
-
-<div style="text-align:center; padding: 10px 0; max-width: 640px; margin: 0 auto;">
-  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 14px;">📱 Join the SakshamXTech Community</h3>
-
-<a href="https://www.youtube.com/@sakshamxtech?sub_confirmation=1" style="margin: 0 6px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Subscribe-SakshamXTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
-  </a>
-
-  <a href="https://www.linkedin.com/in/saksham-sharma-674a32294" style="margin: 0 6px; display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-
-  <a href="https://t.me/sakshamxtech" style="margin: 0 6px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Telegram-SakshamXTech-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
-  </a>
-
-  <a href="https://www.instagram.com/@Saksham_021" style="margin: 0 6px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-Saksham%20Sharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <p style="font-size: 12px; color: #586069;">
-    <em>This guide is provided for educational purposes. Always follow Qwiklabs terms of service and YouTube's community guidelines.</em>
-  </p>
-  <p style="font-size: 12px; color: #586069;">
-    <em>Last updated: June 2026</em>
-  </p>
-</div>
