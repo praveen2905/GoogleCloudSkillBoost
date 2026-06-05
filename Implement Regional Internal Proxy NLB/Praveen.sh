@@ -11,7 +11,7 @@ clear
 
 # Welcome message
 echo "${CYAN_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
-echo "${CYAN_TEXT}${BOLD_TEXT}      SUBSCRIBE SakshamXTech - INITIATING EXECUTION...  ${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}      SUBSCRIBE PRAVEEN TECH - INITIATING EXECUTION...  ${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
 echo
 
@@ -276,5 +276,5 @@ echo "${CYAN_TEXT}${BOLD_TEXT}============================================${RESE
 echo ""
 
 # ─── SELF CLEANUP ────────────────────────────────────────────────────
-# SakshamXTech: remove this script from terminal after execution
+# Praveen Tech: remove this script from terminal after execution
 rm -- "$0"
