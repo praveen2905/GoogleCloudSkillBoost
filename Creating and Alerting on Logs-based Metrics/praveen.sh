@@ -34,7 +34,7 @@ RANDOM_BG_COLOR=${BG_COLORS[$RANDOM % ${#BG_COLORS[@]}]}
 
 #----------------------------------------------------start--------------------------------------------------#
 
-echo "${RANDOM_BG_COLOR}${RANDOM_TEXT_COLOR}${BOLD}Welcome to Dr. Abhishek Cloud Tutorials${RESET}"
+echo "${RANDOM_BG_COLOR}${RANDOM_TEXT_COLOR}${BOLD}Welcome to PRAVEEN TECH Cloud Tutorials${RESET}"
 echo "${BOLD}${CYAN}Starting Lab Execution...${RESET}"
 
 # Step 1: Set Project ID, Compute Zone & Region
