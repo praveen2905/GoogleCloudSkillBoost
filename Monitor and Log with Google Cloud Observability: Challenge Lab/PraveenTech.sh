@@ -25,7 +25,7 @@ UNDERLINE=$'\033[4m'
 
 # Header Section
 echo "${BG_MAGENTA}${BOLD}╔════════════════════════════════════════════════════════╗${RESET}"
-echo "${BG_MAGENTA}${BOLD}        WELCOME TO DR ABHISHEK CLOUD              ${RESET}"
+echo "${BG_MAGENTA}${BOLD}        WELCOME TO PRAVEEN TECH CLOUD              ${RESET}"
 echo "${BG_MAGENTA}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
 echo "${CYAN}${BOLD}⚡ Initializing Video Queue Monitoring Configuration...${RESET}"
@@ -217,6 +217,6 @@ echo "${GREEN}${BOLD}         LAB COMPLETED SUCCESSFULLY!                  ${RES
 echo "${GREEN}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
 echo "${MAGENTA}${BOLD}For more cloud engineering tutorials, visit:${RESET}"
-echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460${RESET}"
+echo "${BLUE}${UNDERLINE}https://www.youtube.com/@PraveenTech1${RESET}"
 echo
 echo "${CYAN}${BOLD}Happy cloud monitoring!${RESET}"
