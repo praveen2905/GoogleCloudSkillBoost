@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# =========================================================
-# AGAYE COPY KRNE NAAAA # FULLY AUTOMATED VERSION
-# =========================================================
 
 # Disable all prompts automatically
 export CLOUDSDK_CORE_DISABLE_PROMPTS=1
@@ -32,8 +29,8 @@ clear
 subscribe_message() {
     echo
     echo "${MAGENTA_TEXT}${BOLD_TEXT}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET_FORMAT}"
-    echo "${YELLOW_TEXT}${BOLD_TEXT}🔥 Subscribe to Dr. Abhishek for More Labs${RESET_FORMAT}"
-    echo "${CYAN_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
+    echo "${YELLOW_TEXT}${BOLD_TEXT}🔥 Subscribe to PRAVEEN TECH for More Labs${RESET_FORMAT}"
+    echo "${CYAN_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@PraveenTech1${RESET_FORMAT}"
     echo "${MAGENTA_TEXT}${BOLD_TEXT}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET_FORMAT}"
     echo
 }
@@ -45,7 +42,7 @@ subscribe_message() {
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}║                                                        ║${RESET_FORMAT}"
-echo "${CYAN_TEXT}${BOLD_TEXT}║        🚀 DR. ABHISHEK'S BIGQUERY  PARTY TIME 🚀        ║${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}║        🚀 PRAVEEN TECH BIGQUERY  PARTY TIME 🚀        ║${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}║                                                        ║${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
