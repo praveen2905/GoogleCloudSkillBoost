@@ -180,7 +180,3 @@ echo "${GREEN_TEXT}${BOLD_TEXT}╔═══════════════�
 echo "${GREEN_TEXT}${BOLD_TEXT}             LAB EXECUTION COMPLETED SUCCESSFULLY         ${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
-echo "${MAGENTA_TEXT}${BOLD_TEXT}💡 For more cloud tutorials and labs:${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}Subscribe to Dr. Abhishek's YouTube Channel${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
-echo
