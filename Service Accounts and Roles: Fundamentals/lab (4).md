@@ -11,22 +11,12 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Service%20Accounts%20and%20Roles%3A%20Fundamentals/abhishek.sh
-sudo chmod +x abhishek.sh
-./abhishek.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Service%20Accounts%20and%20Roles%3A%20Fundamentals/praveen%20(4).sh
+sudo chmod +x praveen%20(4).sh
+./praveen%20(4).sh
 ```
 
 
 <div align="center">
   
 # Congratulations !!!!
-
-Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.
-
-[![Join Telegram Group](https://img.shields.io/badge/-Join%20Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/+gBcgRTlZLyM4OGI1)  
-[![Subscribe on YouTube](https://img.shields.io/badge/-Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@drabhishek.5460?sub_confirmation=1)  
-[![Follow on Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/drabhishek.5460/)
-
-*Let's grow together in the cloud computing world!*
-
-</div>
