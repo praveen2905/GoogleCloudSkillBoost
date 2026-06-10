@@ -169,7 +169,7 @@ spinner="/-\|"
 messages=(
 "Preparing VM..."
 "Installing Components..."
-"Subscribe to Dr. Abhishek 🔥"
+"Subscribe to PRAVEEN TECH 🔥"
 "Launching BigQuery Services..."
 )
 
@@ -243,8 +243,8 @@ client = bigquery.Client(
     credentials=credentials
 )
 
-print("\n🔥 Subscribe to Dr. Abhishek")
-print("https://www.youtube.com/@drabhishek.5460\n")
+print("\n🔥 Subscribe to PRAVEEN TECH")
+print("https://www.youtube.com/@PraveenTech1\n")
 
 print("Executing Query...\n")
 
