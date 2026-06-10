@@ -11,9 +11,9 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Service%20Accounts%20and%20Roles%3A%20Fundamentals/praveen%20(4).sh
-sudo chmod +x praveen%20(4).sh
-./praveen%20(4).sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Service%20Accounts%20and%20Roles%3A%20Fundamentals/praveen.sh
+sudo chmod +x praveen.sh
+./praveen.sh
 ```
 
 
