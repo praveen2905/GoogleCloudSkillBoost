@@ -17,7 +17,7 @@ clear
 
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}=========================================${RESET_FORMAT}"
-echo "${CYAN_TEXT}${BOLD_TEXT}🚀   Dr. Abhishek Cloud Tutorials - Lab  🚀${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}🚀   PRAVEEN TECH Cloud Tutorials - Lab  🚀${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}=========================================${RESET_FORMAT}"
 echo
 echo "${GREEN_TEXT}${BOLD_TEXT}Sponsored by: Google Cloud Platform${RESET_FORMAT}"
@@ -242,8 +242,6 @@ echo "${GREEN_TEXT}${BOLD_TEXT}=========================================${RESET_
 echo "${GREEN_TEXT}${BOLD_TEXT}       LAB EXECUTION COMPLETED        ${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}=========================================${RESET_FORMAT}"
 echo
-echo "${BLUE_TEXT}${BOLD_TEXT}Thank you for using Dr. Abhishek Cloud Tutorials!${RESET_FORMAT}"
+echo "${BLUE_TEXT}${BOLD_TEXT}Thank you for using PRAVEEN TECH Cloud Tutorials!${RESET_FORMAT}"
 echo
-echo "${YELLOW_TEXT}${BOLD_TEXT}For more cloud tutorials and labs, visit:${RESET_FORMAT}"
-echo "${CYAN_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
-echo
+
