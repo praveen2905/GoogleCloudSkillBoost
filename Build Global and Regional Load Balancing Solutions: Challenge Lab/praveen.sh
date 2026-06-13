@@ -10,7 +10,7 @@ MAGENTA_TEXT=$'\033[0;95m'
 CYAN_TEXT=$'\033[0;96m'
 WHITE_TEXT=$'\033[0;97m'
 TEAL=$'\033[38;5;50m'
-ORANGE_TEXT=$'\033[38;5;208m'      # agaye na copy karne copycat mere thumbnail copy kia tha tumne ab strike bheju kya
+ORANGE_TEXT=$'\033[38;5;208m'     
 
 # Define text formatting variables
 BOLD_TEXT=$'\033[1m'
@@ -24,8 +24,8 @@ clear
 
 # Welcome message in D
 echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}           WELCOME TO DR. ABHISHEK GUIDE${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}                SUBSCRIBE n LIKE THE VIDEO JI${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}           WELCOME TO PRAVEEN TECh GUIDE${RESET_FORMAT}"
+echo "${ORANGE_TEXT}${BOLD_TEXT}                SUBSCRIBE & LIKE THE VIDEO${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
 echo
 
@@ -182,8 +182,4 @@ echo
 echo "${ORANGE_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
-echo
-echo "${RED_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}Please subscribe to the channel for more videos and updates!${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}Don't forget to Like, Share and Subscribe!${RESET_FORMAT}"
 echo
