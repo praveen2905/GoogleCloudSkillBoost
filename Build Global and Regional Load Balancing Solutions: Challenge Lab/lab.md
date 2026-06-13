@@ -144,9 +144,9 @@ sudo chmod +x praveen.sh
 ./praveen.sh
 ```
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Build%20Global%20and%20Regional%20Load%20Balancing%20Solutions%3A%20Challenge%20Lab/drabhishek1.sh
-sudo chmod +x drabhishek1.sh
-./drabhishek1.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Build%20Global%20and%20Regional%20Load%20Balancing%20Solutions%3A%20Challenge%20Lab/praveen1.sh
+sudo chmod +x praveen1.sh
+./praveen1.sh
 ```
 ```
 curl http://[LB_IP]:110
