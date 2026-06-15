@@ -12,7 +12,7 @@ RESET_FORMAT=$'\033[0m'
 
 echo
 echo "${PINK_TEXT}${BOLD_WHITE}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
-echo "${PINK_TEXT}${BOLD_WHITE}          Welcome to Dr. Abhishek's cloud tutorial             ${RESET_FORMAT}"
+echo "${PINK_TEXT}${BOLD_WHITE}          Welcome to PRAVEEN TECH cloud tutorial             ${RESET_FORMAT}"
 echo "${PINK_TEXT}${BOLD_WHITE}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
 
@@ -96,7 +96,4 @@ echo
 echo "${PINK_TEXT}${BOLD_WHITE}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
 echo "${PINK_TEXT}${BOLD_WHITE}               DO HIT THE LIKE BUTTON AND SUBSCRIBE !           ${RESET_FORMAT}"
 echo "${PINK_TEXT}${BOLD_WHITE}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
-echo
-echo -e "${NEON_GREEN_TEXT}${BOLD_WHITE}Subscribe our Channel:${RESET_FORMAT} ${LIGHT_BLUE_TEXT}${BOLD_WHITE}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
-echo -e "${LIGHT_CYAN_TEXT}${BOLD_WHITE}Follow on Instagram:${RESET_FORMAT} ${PURPLE_TEXT}${BOLD_WHITE}https://www.instagram.com/drabhishek.5460/${RESET_FORMAT}"
 echo
