@@ -304,7 +304,6 @@ echo
 
 echo "${GREEN}${BOLD}"
 echo "Lab completed successfully!"
-echo "${YELLOW}${BOLD}Subscribe to Dr. Abhishek: https://www.youtube.com/@drabhishek.5460/videos${RESET}"
 echo
 
 # Cleanup function
