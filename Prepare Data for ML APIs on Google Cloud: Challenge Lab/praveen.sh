@@ -15,15 +15,6 @@ RESET=`tput sgr0`
 #----------------------------------------------------start--------------------------------------------------#
 
 
-echo "${CYAN}${BOLD}"
-echo "   ____ _               _   ____       _     _               "
-echo "  / ___| | ___  _ __ __| | | __ ) _ __(_) __| | _____      __"
-echo " | |   | |/ _ \| '__/ _\` | |  _ \| '__| |/ _\` |/ _ \ \ /\ / /"
-echo " | |___| | (_) | | | (_| | | |_) | |  | | (_| | (_) \ V  V / "
-echo "  \____|_|\___/|_|  \__,_| |____/|_|  |_|\__,_|\___/ \_/\_/  "
-echo "${RESET}"
-echo "${YELLOW}${BOLD} Subscribe to Dr. Abhishek: https://www.youtube.com/@drabhishek.5460/videos${RESET}"
-echo
 
 echo "${GREEN}${BOLD}Starting Execution...${RESET}"
 echo
