@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# ==============================================
-# Google Cloud Security Command Center Lab
-# Welcome to Dr. Abhishek Cloud Tutorials!
-# YouTube: https://www.youtube.com/@drabhishek.5460/videos
-# ==============================================
 
 # Color definitions
 BLACK=`tput setaf 0`
@@ -49,10 +44,10 @@ display_banner() {
     echo "╔══════════════════════════════════════════════════════════════╗"
     echo "║                   🚀 CLOUD SECURITY LAB 🚀                   ║"
     echo "║                                                              ║"
-    echo "║           📺 DR. ABHISHEK CLOUD TUTORIALS 📺                ║"
+    echo "║           📺 PRAVEEN TECH CLOUD TUTORIALS 📺                ║"
     echo "║                                                              ║"
-    echo "║    🌐 YouTube: https://www.youtube.com/@drabhishek.5460     ║"
-    echo "║    ⭐ Subscribe for Cloud Security Content ⭐               ║"
+    echo "║    🌐 YouTube: https://www.youtube.com/@PraveenTech1     ║"
+    echo "║    ⭐ SUBSCRIBE ⭐               ║"
     echo "╚══════════════════════════════════════════════════════════════╝"
     echo "${RESET}"
 }
@@ -125,7 +120,7 @@ echo "║          ✅ VPC network with secure firewall rules         ║"
 echo "║          ✅ All security tasks completed                   ║"
 echo "║                                                              ║"
 echo "║    📺 For more security tutorials, visit our channel:      ║"
-echo "║    🌐 https://www.youtube.com/@drabhishek.5460             ║"
+echo "║    🌐 https://www.youtube.com/@PraveenTech1        ║"
 echo "╚══════════════════════════════════════════════════════════════╝"
 echo "${RESET}"
 
