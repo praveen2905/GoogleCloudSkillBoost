@@ -33,13 +33,8 @@ RANDOM_BG_COLOR=${BG_COLORS[$RANDOM % ${#BG_COLORS[@]}]}
 #----------------------------------------------------start--------------------------------------------------#
 
 echo "${CYAN}${BOLD}"
-echo "  ____  ____   ___   _   _ _____ _   _ ____  _     ___  ____  "
-echo " |  _ \|  _ \ / _ \ | | | |_   _| | | |  _ \| |   / _ \|  _ \ "
-echo " | | | | |_) | | | || |_| | | | | |_| | | | | |  | | | | |_) |"
-echo " | |_| |  _ <| |_| ||  _  | | | |  _  | |_| | |__| |_| |  _ < "
-echo " |____/|_| \_\\___/ |_| |_| |_| |_| |_|____/|_____\___/|_| \_\\"
 echo "${RESET}"
-echo "${MAGENTA}${BOLD}                   DR ABHISHEK CLOUD${RESET}"
+echo "${MAGENTA}${BOLD}                   PRAVEEN TECH ${RESET}"
 echo "${BLUE}${BOLD}--------------------------------------------------------${RESET}"
 echo "${YELLOW}${BOLD}        WELCOME TO MY CHANNEL      ${RESET}"
 echo "${BLUE}${BOLD}--------------------------------------------------------${RESET}"
@@ -157,10 +152,10 @@ echo
 function show_subscription_prompt() {
     echo "${BLUE}${BOLD}"
     echo "--------------------------------------------------------"
-    echo " LIKE, SHARE, AND SUBSCRIBE TO DR ABHISHEK CLOUD CHANNEL"
+    echo " LIKE, SHARE, AND SUBSCRIBE TO PRAVEEN TECH CLOUD CHANNEL"
     echo " For more cloud tutorials and automation scripts!"
     echo 
-    echo " YouTube: https://www.youtube.com/@drabhishek.5460"
+    echo " https://www.youtube.com/@PraveenTech1"
     echo "--------------------------------------------------------"
     echo "${RESET}"
 }
