@@ -2,8 +2,8 @@
 
 # ==============================================
 # Google Cloud Security Command Center Lab
-# Welcome to Dr. Abhishek Cloud Tutorials!
-# YouTube: https://www.youtube.com/@drabhishek.5460/videos
+# Welcome to PRAVEEN TECH Cloud Tutorials!
+# YouTube: https://www.youtube.com/@PraveenTech1
 # ==============================================
 
 # Color definitions
@@ -49,9 +49,9 @@ display_banner() {
     echo "╔══════════════════════════════════════════════════════════════╗"
     echo "║                   🚀 CLOUD SECURITY LAB 🚀                   ║"
     echo "║                                                              ║"
-    echo "║           📺 DR. ABHISHEK CLOUD TUTORIALS 📺                ║"
+    echo "║           📺 PRAVEEN TECH CLOUD TUTORIALS 📺                ║"
     echo "║                                                              ║"
-    echo "║    🌐 YouTube: https://www.youtube.com/@drabhishek.5460     ║"
+    echo "║    🌐 YouTube: https://www.youtube.com/@PraveenTech1     ║"
     echo "║    ⭐ Subscribe for Cloud Security Content ⭐               ║"
     echo "╚══════════════════════════════════════════════════════════════╝"
     echo "${RESET}"
@@ -125,7 +125,7 @@ echo "║          ✅ VPC network with secure firewall rules         ║"
 echo "║          ✅ All security tasks completed                   ║"
 echo "║                                                              ║"
 echo "║    📺 For more security tutorials, visit our channel:      ║"
-echo "║    🌐 https://www.youtube.com/@drabhishek.5460             ║"
+echo "║    🌐 https://www.youtube.com/@PraveenTech1             ║"
 echo "╚══════════════════════════════════════════════════════════════╝"
 echo "${RESET}"
 
@@ -133,7 +133,7 @@ echo "${GREEN}${BOLD}Lab Completed !!!${RESET}"
 echo ""
 
 # Final call to action
-read -p "${BOLD}${YELLOW}Subscribe to Dr. Abhishek Cloud Tutorials [y/n] : ${RESET}" CONSENT
+read -p "${BOLD}${YELLOW}Subscribe to PRAVEEN TECH Cloud Tutorials [y/n] : ${RESET}" CONSENT
 
 while [ "$CONSENT" != 'y' ] && [ "$CONSENT" != 'Y' ]; do
   sleep 2
@@ -141,7 +141,7 @@ while [ "$CONSENT" != 'y' ] && [ "$CONSENT" != 'Y' ]; do
 done
 
 echo "${BLUE}${BOLD}Thanks For Subscribing! 🚀${RESET}"
-echo "${GREEN}${BOLD}New videos every week on Google Cloud security! 📺${RESET}"
+echo "${GREEN}${BOLD}New videos every day on Google Cloud security! 📺${RESET}"
 
 # Cleanup (optional)
 echo "${YELLOW}${BOLD}Cleaning up temporary files...${RESET}"
