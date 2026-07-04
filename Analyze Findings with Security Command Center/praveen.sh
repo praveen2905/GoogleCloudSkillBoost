@@ -22,7 +22,7 @@ clear
 # Header
 echo
 echo "${BG_BLUE}${STYLE_BOLD}${FG_WHITE}════════════════════════════════════════════${FORMAT_RESET}"
-echo "${BG_BLUE}${STYLE_BOLD}${FG_WHITE}  welcome to dr abhishek cloud guide       ${FORMAT_RESET}"
+echo "${BG_BLUE}${STYLE_BOLD}${FG_WHITE}  welcome to PRAVEEN TECH CHANNEL       ${FORMAT_RESET}"
 echo "${BG_BLUE}${STYLE_BOLD}${FG_WHITE}════════════════════════════════════════════${FORMAT_RESET}"
 echo
 
@@ -182,6 +182,4 @@ echo "┣ View findings in BigQuery: ${COLOR_BLUE}https://console.cloud.google.c
 echo "┣ Check exported files: ${COLOR_BLUE}https://console.cloud.google.com/storage/browser/${BUCKET_NAME}?project=${PROJECT_ID}${FORMAT_RESET}"
 echo "┗ Monitor SCC findings: ${COLOR_BLUE}https://console.cloud.google.com/security/command-center/findings?project=${PROJECT_ID}${FORMAT_RESET}"
 echo
-echo "${COLOR_MAGENTA}${STYLE_BOLD}For more cloud security tutorials, subscribe to:${FORMAT_RESET}"
-echo "${COLOR_BLUE}https://www.youtube.com/@drabhishek.5460${FORMAT_RESET}"
 echo
