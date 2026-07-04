@@ -16,17 +16,12 @@ Initiate and mitigate a threat with Event Threat Detection. Configure a cloud en
 
 ```bash
 
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Detect%20and%20Investigate%20Threats%20with%20Security%20Command%20Center/abhishekgssp1125.sh
-sudo chmod +x abhishekgssp1125.sh
-./abhishekgssp1125.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Detect%20and%20Investigate%20Threats%20with%20Security%20Command%20Center/praveen.sh
+sudo chmod +x praveen.sh
+./praveen.sh
 ```
 
 
 
 
 ### Congratulations !!!!
-
-Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.  
-
-[![Telegram](https://img.shields.io/badge/Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+gBcgRTlZLyM4OGI1)
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@drabhishek.5460?sub_confirmation=1)  
