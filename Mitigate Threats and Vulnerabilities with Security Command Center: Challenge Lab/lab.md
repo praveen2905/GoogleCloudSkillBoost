@@ -21,9 +21,9 @@ sudo chmod +x praveen.sh
 ```
 * **Reserve Static External IP** address name **`static-ip`**
 ```bash
-curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%3A%20Challenge%20Lab/TechCode2.sh
-sudo chmod +x TechCode2.sh 
-./TechCode2.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%3A%20Challenge%20Lab/praveen1.sh
+sudo chmod +x praveen1.sh 
+./praveen1.sh
 ```
 
 </div>
