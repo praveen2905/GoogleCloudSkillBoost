@@ -21,13 +21,10 @@ clear
 
 # Welcome message
 echo "${CYAN_TEXT}${BOLD_TEXT}=====================================================${RESET_FORMAT}"
-echo "${CYAN_TEXT}${BOLD_TEXT}        WELCOME TO DR ABHISHEK CLOUD LAB GUIDE       ${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}        WELCOME TO PRAVEEN TECH CLOUD LAB GUIDE       ${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}=====================================================${RESET_FORMAT}"
 echo
-echo "${YELLOW_TEXT}${BOLD_TEXT}Subscribe for more Cloud & AI Labs:${RESET_FORMAT}"
-echo "${GREEN_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
-echo
-echo "${CYAN_TEXT}${BOLD_TEXT}=============ticket dikhaao ticket ===============${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}============= OR BHAI KYA HAAL CHAAL ===============${RESET_FORMAT}"
 echo
 
 # Create dataset
@@ -214,6 +211,4 @@ echo "${CYAN_TEXT}${BOLD_TEXT}==================================================
 echo "${GREEN_TEXT}${BOLD_TEXT}            LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}=====================================================${RESET_FORMAT}"
 echo
-echo "${YELLOW_TEXT}${BOLD_TEXT}Learn more Cloud Labs on:${RESET_FORMAT}"
-echo "${RED_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
 echo
