@@ -1,6 +1,5 @@
 #!/bin/bash
 # Google Kubernetes Engine (GKE) Autoscaling Lab
-# Expertly crafted by Dr. Abhishek Cloud
 
 
 BOLD=$(tput bold)
@@ -28,12 +27,9 @@ BG_MAGENTA=$(tput setab 5)
 # ======================
 clear
 echo "${BG_BLUE}${BOLD}${WHITE}==================================================${RESET}"
-echo "${BG_BLUE}${BOLD}${WHITE}   WELCOME TO DR. ABHISHEK CLOUD TUTORIALS       ${RESET}"
+echo "${BG_BLUE}${BOLD}${WHITE}   WELCOME TO PRAVEEN TECH CLOUD TUTORIALS       ${RESET}"
 echo "${BG_BLUE}${BOLD}${WHITE}       GKE AUTOSCALING LAB                       ${RESET}"
 echo "${BG_BLUE}${BOLD}${WHITE}==================================================${RESET}"
-echo ""
-echo "${CYAN}${BOLD}⚡ Learn Kubernetes Autoscaling with Google Cloud${RESET}"
-echo "${YELLOW}${BOLD}📺 YouTube: ${UNDERLINE}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
 echo ""
 
 # ======================
@@ -223,7 +219,5 @@ echo ""
 echo "${WHITE}${BOLD}🔍 Access your resources:${RESET}"
 echo "${YELLOW}GKE Cluster: https://console.cloud.google.com/kubernetes/list?project=$DEVSHELL_PROJECT_ID${RESET}"
 echo "${YELLOW}Workloads: https://console.cloud.google.com/kubernetes/workload?project=$DEVSHELL_PROJECT_ID${RESET}"
-echo ""
-echo "${CYAN}${BOLD}💡 For more Google Cloud labs and tutorials:${RESET}"
-echo "${YELLOW}${BOLD}👉 ${UNDERLINE}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
+echo
 echo "${GREEN}${BOLD}🔔 Don't forget to subscribe for daily cloud tutorials!${RESET}"
