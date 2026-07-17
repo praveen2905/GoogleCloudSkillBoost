@@ -1,11 +1,5 @@
-## Cloud Run Functions: 3 Ways: Challenge Lab
+## Build Serverless Applications with Cloud Run Functions: Challenge Lab
 
-
-
-### In this lab, you will learn .
-- Create a bucket to upload new project files.
-- Create, deploy, and test a Cloud Storage function that logs new activities in the Cloud Storage bucket.
-- Create and deploy a function that responds to HTTP requests with minimum instances to limit cold starts.
 
 
 ### ⚠️ Disclaimer
@@ -24,24 +18,8 @@ export REGION=
 ```
 
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Cloud%20Run%20Functions%3A%203%20Ways%3A%20Challenge%20Lab/abhishek.sh
-sudo chmod +x abhishek.sh
-./abhishek.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Build%20Serverless%20Applications%20with%20Cloud%20Run%20Functions%3A%20Challenge%20Lab/praveen.sh
+sudo chmod +x praveen.sh
+./praveen.sh
 ```
 ### Congratulations !!!!
-
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <p>Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.</p>  
-
-  <a href="https://t.me/+gBcgRTlZLyM4OGI1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-
-  <a href="https://www.youtube.com/@drabhishek.5460?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-
-  <a href="https://www.instagram.com/drabhishek.5460/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
