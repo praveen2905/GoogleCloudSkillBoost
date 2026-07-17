@@ -21,7 +21,6 @@ BG_WHITE=`tput setab 7`
 
 BOLD=`tput bold`
 RESET=`tput sgr0`
-#----------------------------------------------------chori krne aaye ho na  ji khudke dam pe nahi bnata kyaa-------------------------------------------------#
 
 echo "${BG_MAGENTA}${BOLD}Starting Execution${RESET}"
 
@@ -153,4 +152,3 @@ done
 
 echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
 
-#-----------------------------------------------------end----------------------------------------------------------#
