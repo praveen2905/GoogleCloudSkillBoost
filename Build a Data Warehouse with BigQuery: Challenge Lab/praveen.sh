@@ -26,7 +26,7 @@ clear
 
 
 echo "${BLUE}${BOLD}====================================================================${RESET}"
-echo "${BLUE}${BOLD}                  Dr. Abhishek Cloud Tutorials                     ${RESET}"
+echo "${BLUE}${BOLD}                  PRAVEEN TECH Cloud Tutorials                     ${RESET}"
 echo "${BLUE}${BOLD}====================================================================${RESET}"
 echo
 echo "${GREEN}${BOLD}Starting BigQuery COVID-19 Data Analysis Lab${RESET}"
@@ -211,9 +211,4 @@ echo
 echo "${GREEN}${BOLD}====================================================================${RESET}"
 echo "${GREEN}${BOLD}             LAB COMPLETED!                  ${RESET}"
 echo "${GREEN}${BOLD}====================================================================${RESET}"
-echo
-echo "${BLUE}${BOLD}Thank you for using Dr. Abhishek Cloud Tutorials!${RESET}"
-echo
-echo "${YELLOW}${BOLD}For more cloud tutorials and labs, visit:${RESET}"
-echo "${CYAN}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
 echo
