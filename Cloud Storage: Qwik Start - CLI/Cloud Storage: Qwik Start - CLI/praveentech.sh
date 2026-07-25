@@ -18,7 +18,7 @@ UNDERLINE_TEXT=$'\033[4m'
 
 echo
 echo "${HEADER_COLOR}${BOLD_TEXT}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${RESET_FORMAT}"
-echo "${TITLE_COLOR}${BOLD_TEXT}        🚀 DR. ABHISHEK'S CLOUD  TUTORIALS       ${RESET_FORMAT}"
+echo "${TITLE_COLOR}${BOLD_TEXT}        🚀 PRAVEEN TECH CLOUD  TUTORIALS       ${RESET_FORMAT}"
 echo "${HEADER_COLOR}${BOLD_TEXT}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${RESET_FORMAT}"
 echo
 echo "${TEXT_COLOR}This interactive lab will guide you through Cloud Storage operations${RESET_FORMAT}"
@@ -82,13 +82,4 @@ echo
 echo "${HEADER_COLOR}${BOLD_TEXT}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${RESET_FORMAT}"
 echo "${SUCCESS_COLOR}${BOLD_TEXT}          🎉 LAB COMPLETED SUCCESSFULLY! 🎉         ${RESET_FORMAT}"
 echo "${HEADER_COLOR}${BOLD_TEXT}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${RESET_FORMAT}"
-echo
-echo "${TEXT_COLOR}${BOLD_TEXT}You've successfully completed these Cloud Storage operations:${RESET_FORMAT}"
-echo "${TEXT_COLOR}• Created and configured a storage bucket"
-echo "• Uploaded and downloaded files"
-echo "• Organized content with folders"
-echo "• Managed access permissions${RESET_FORMAT}"
-echo
-echo -e "${PROMPT_COLOR}${BOLD_TEXT}💡 Continue learning at: ${LINK_COLOR}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
-echo "${PROMPT_COLOR}${BOLD_TEXT}   Don't forget to like and subscribe!${RESET_FORMAT}"
 echo
