@@ -26,14 +26,10 @@ In this hands-on lab, you will learn how to use the **APIS for cloud storage** t
 
 ```
 
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Use%20APIs%20to%20Work%20with%20Cloud%20Storage%3A%20Challenge%20Lab/abhishekARC125.sh
+curl -LO https://raw.githubusercontent.com/praveen2905/GoogleCloudSkillBoost/refs/heads/main/Use%20APIs%20to%20Work%20with%20Cloud%20Storage%3A%20Challenge%20Lab/praveen.sh
 
-sudo chmod +x abhishekARC125.sh
-./abhishekARC125.sh
+sudo chmod +x praveen.sh
+./praveen.sh
 ```
 
 
-
-## Join the Community
-
-[![Telegram](https://img.shields.io/badge/Join-Telegram_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/+gBcgRTlZLyM4OGI1) - Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.
